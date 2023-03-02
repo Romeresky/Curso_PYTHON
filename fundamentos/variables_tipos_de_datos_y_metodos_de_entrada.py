@@ -1,3 +1,9 @@
+"""
+Operadores de asignación
+"""
+
+
+
 #print(8+8)                       #Metodo de salida
 #input('Digita una letra')        #Metodo de entrada
 
